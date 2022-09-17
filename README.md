@@ -1,2 +1,4 @@
 # TrabalhoMobile
-Repositório para atividade da Disciplina de Desenvolvimento Mobile
+Repositório para atividade da Disciplina de Computação para Dispositivos Móveis
+Marcelo Abbi
+Sábado Manhã 
